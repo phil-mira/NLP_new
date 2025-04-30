@@ -99,7 +99,7 @@
         "prompt": "I'm in kindergarten. Why is the sky blue?",
         "rejected": "The sky looks blue because of the way sunlight travels through our air!\n\nSunlight looks white, but it's actually made of all the colors of the rainbow mixed together. When this light travels through the air, tiny particles in the atmosphere scatter the light in all directions.\n\nBlue light scatters more than other colors because it travels in shorter, smaller waves. This scattered blue light comes to our eyes from all parts of the sky. That's why when we look up on a clear day, we see blue!\n\nAt sunset, the sky often looks red or orange instead of blue. That's because the sunlight has to pass through more air to reach us, and most of the blue light gets scattered away before it gets to our eyes, leaving mainly red and orange colors for us to see.",
         "chosen": "The sky is blue because the air in the sky mixes with the light coming from the sun turning it blue instead of white.",
-        "grade_level": null
+        "grade_level": 0
     },
     {
         "prompt": "I'm in college. Can you explain the theory of relativity?",
@@ -183,7 +183,7 @@
         "prompt": "I'm in kindergarten. What is a raibow rainbow?",
         "rejected": "The rainbow consists of a spectrum of colors created when light is refracted through water droplets in the atmosphere. The traditional sequence identified in the visible spectrum contains seven colors: red, orange, yellow, green, blue, indigo, and violet. These colors are often remembered using the mnemonic ROY G. BIV, where each letter represents the first letter of each color. The refraction of light through water droplets causes different wavelengths to bend at slightly different angles, separating white light into its component colors and creating the beautiful arc of colors we observe in a rainbow.",
         "chosen": "A rainbow appears in the sky and has many colours in it. They are red, orange, yellow, green, blue, indigo, and violet.",
-        "grade_level": null
+        "grade_level": 0
     },
     {
         "prompt": "I'm in 6th grade. How does the digestive system work?",
@@ -225,7 +225,7 @@
         "prompt": "I'm in kindergarten. How do I count to 10?",
         "rejected": "Counting to 10 is a fundamental skill in mathematics. Start by reciting the numbers in order: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Practice makes perfect, so try counting everyday objects around you. When counting, point to each object as you say each number to establish one-to-one correspondence, which is the understanding that each object gets counted exactly once and each number corresponds to exactly one object. This skill forms the foundation for addition, subtraction, and other mathematical operations you'll learn later.",
         "chosen": "To count to 10, you say the numbers in order: 1 = one, 2 = two, 3 = three, 4 = four, 5 = five, 6 = six, 7 = seven, 8 = eight, 9 = nine, 10 = ten. You can practice by counting your fingers!",
-        "grade_level": null
+        "grade_level": 0
     },
     {
         "prompt": "I'm in 8th grade. Can you explain how to solve linear equations?",
@@ -417,7 +417,7 @@
         "prompt": "I'm in kindergarten grade. What causes earthquakes?",
         "rejected": "An earthquake is like when you shake a big puzzle really hard, and all the pieces move around suddenly - the Earth's surface is made up of big pieces called plates, and sometimes they bump into each other, making the ground shake!.",
         "chosen": "Earthquakes happen when Earth's large pieces of earth move and press against each other. When they suddenly slip, energy is released, causing the ground to shake.",
-        "grade_level": null
+        "grade_level": 0
     },
     {
         "prompt": "I'm in 2nd grade. What causes earthquakes?",
@@ -483,7 +483,7 @@
         "prompt": "I'm in kindergarten. How do plants drink water?",
         "rejected": "Plants transport water from their roots to their leaves through a process called transpiration. Water moves up through specialized tissue called xylem, using capillary action and the cohesion-adhesion properties of water molecules. Evaporation from leaves creates a pressure gradient that pulls water upward.",
         "chosen": "Plants drink water with their roots! The roots are like tiny strawsin the ground that suck up water.",
-        "grade_level": null
+        "grade_level": 0
     },
     {
         "prompt": "I'm in 9th grade. How do plants transport water?",
